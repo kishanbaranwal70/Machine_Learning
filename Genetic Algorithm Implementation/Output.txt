@@ -1,0 +1,467 @@
+Generation: 0   String: ?Q5g}yTGnw  ;a3bqfH     Fitness: 17
+Generation: 1   String: }Mc1 -Ptvp6jSwz{olp     Fitness: 17
+Generation: 2   String: UIy(,xbG_Zui3art=B      Fitness: 17
+Generation: 3   String: ?Q5g}yTGnw  ;a3bqfH     Fitness: 17
+Generation: 4   String: o/g&: x/{34{{apAmXl     Fitness: 17
+Generation: 5   String: UIy(,xbG_Zui3art=B      Fitness: 17
+Generation: 6   String: ?Q5g}yTGnw  ;a3bq4H     Fitness: 17
+Generation: 7   String: UIy(,xbG_Zui3artnB      Fitness: 17
+Generation: 8   String: ?Q5g}yTGnw  Ra3bqfH     Fitness: 17
+Generation: 9   String: F)v4,={b;N]37bC)pgg     Fitness: 17
+Generation: 10  String: ?Q5gSyTGnw  Ra3bqfH     Fitness: 17
+Generation: 11  String: UIy(,xbG_Zui3art=B      Fitness: 17
+Generation: 12  String: &Q5g}yIGn{  ;a3bqfH     Fitness: 17
+Generation: 13  String: UIy(,?sG_Zui3art=B      Fitness: 17
+Generation: 14  String: VIy(,xbG_Zui3artZB      Fitness: 17
+Generation: 15  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 16  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 17  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 18  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 19  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 20  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 21  String: UI;(,xbG_Juieart=B      Fitness: 16
+Generation: 22  String: UI;(,xbG_ZDieart=B      Fitness: 16
+Generation: 23  String: UI;],xbG_Zuieart=B      Fitness: 16
+Generation: 24  String: UI;(,xbG_Juieart=B      Fitness: 16
+Generation: 25  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 26  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 27  String: UI;(,xbG_Zuieart=B      Fitness: 16
+Generation: 28  String: UI;],JbG_Zuieart=B      Fitness: 16
+Generation: 29  String: UI;],Jb _Zuieart=B      Fitness: 16
+Generation: 30  String: UI;],xbG_Zuieart=B      Fitness: 16
+Generation: 31  String: UI;(,$3G_Zuieart=B      Fitness: 16
+Generation: 32  String: UI;(,xbD_Zuieart?B      Fitness: 16
+Generation: 33  String: UI;(,$3G_Zuieart=B      Fitness: 16
+Generation: 34  String: UI;],xbG_Zuieart=B      Fitness: 16
+Generation: 35  String: UI;(,xbG_Zuiear$=B      Fitness: 16
+Generation: 36  String: UI;(,xbG_Zuiear1=B      Fitness: 16
+Generation: 37  String: UI;(,xbGSZsieart]j      Fitness: 16
+Generation: 38  String: UI;(5xDGSZuieart=B      Fitness: 16
+Generation: 39  String: .I;(,$3G_Nuieart=B      Fitness: 16
+Generation: 40  String: UI;(,$3G_Z ieart&B      Fitness: 15
+Generation: 41  String: UI;(,$3G_Z ieart&B      Fitness: 15
+Generation: 42  String: UI;(,$3G_Z iear(&B      Fitness: 15
+Generation: 43  String: UI;},xbGSZuieart]n      Fitness: 15
+Generation: 44  String: qI;(,$3G_Z ieart&B      Fitness: 15
+Generation: 45  String: UI;(,$3G_Z ieart&B      Fitness: 15
+Generation: 46  String: .I;(,$3@oNuceart=B      Fitness: 15
+Generation: 47  String: UI;(,$3G_Z iear(&B      Fitness: 15
+Generation: 48  String: UI;M,$3G_Z ieart&B      Fitness: 15
+Generation: 49  String: #I;(,$3@oNIceart=B      Fitness: 15
+Generation: 50  String: Uz;(,$3G_9 iear/&B      Fitness: 15
+Generation: 51  String: U6;(,$3G_Z ieart&B      Fitness: 15
+Generation: 52  String: LI;(S$dG_Z iear(&B      Fitness: 15
+Generation: 53  String: UI;M,$3G_Z iear(&}      Fitness: 15
+Generation: 54  String: UI;(,$3G_Z ieart&B      Fitness: 15
+Generation: 55  String: UeCA,$3G_s ieart&B      Fitness: 14
+Generation: 56  String: UeCA,$3G_s ieart&B      Fitness: 14
+Generation: 57  String: UeCA,$3G_s ieart&BR     Fitness: 14
+Generation: 58  String: UeCA,$3G_s ueart&B      Fitness: 14
+Generation: 59  String: UeCA,$3G_s ieart&B      Fitness: 14
+Generation: 60  String: UI;M,$3G_a iearn&}      Fitness: 14
+Generation: 61  String: UeCA,$3G_s ieart&B      Fitness: 14
+Generation: 62  String: UeCA,$3G_s ieart&B      Fitness: 14
+Generation: 63  String: UeCA,$bG_s iearW&B      Fitness: 14
+Generation: 64  String: UemA,$3G_s 6eart&B      Fitness: 14
+Generation: 65  String: UeCA,$3Gos ieart&B      Fitness: 13
+Generation: 66  String: UeCAj$3Gos ieart&B      Fitness: 13
+Generation: 67  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 68  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 69  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 70  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 71  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 72  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 73  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 74  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 75  String: NeC(j$3Gos iear &B      Fitness: 12
+Generation: 76  String: NeCAj$3Gos ieart&B      Fitness: 12
+Generation: 77  String: NeCAT$3Gos ieart&B      Fitness: 12
+Generation: 78  String: NeCAT$3Gos ieart&B      Fitness: 12
+Generation: 79  String: NeCAj$3Zon ieartiBa     Fitness: 11
+Generation: 80  String: NeCAj$3Zon ieartiBa     Fitness: 11
+Generation: 81  String: NeCAy$3GoO iearn&B      Fitness: 11
+Generation: 82  String: NeCAy$3Gos iearn&B      Fitness: 11
+Generation: 83  String: NeCAj$3Zon ieartiBa     Fitness: 11
+Generation: 84  String: NeCAj$3Zon ieartiBa     Fitness: 11
+Generation: 85  String: NeCAj$3Fon ieartiBa     Fitness: 11
+Generation: 86  String: NeCej$3Zon ieartiBa     Fitness: 10
+Generation: 87  String: NeCej$3Zon ieartiBa     Fitness: 10
+Generation: 88  String: NeCej$3Zon ieartiBa     Fitness: 10
+Generation: 89  String: NeCej$3Zon ieartiBa     Fitness: 10
+Generation: 90  String: NeCej_3Zon ieartiBa     Fitness: 10
+Generation: 91  String: NeCej$3Zon ieartiBa     Fitness: 10
+Generation: 92  String: NeCej$3Zon ieartiB8     Fitness: 10
+Generation: 93  String: NeCe[$3Zon ieartiBa     Fitness: 10
+Generation: 94  String: NeCej$3Zo8 ieartiBa     Fitness: 10
+Generation: 95  String: NeCe7$3[o8 ieartiBa     Fitness: 10
+Generation: 96  String: NeCej$3Zo8 ieartiBa     Fitness: 10
+Generation: 97  String: NeSej_#Zon ieartiBa     Fitness: 10
+Generation: 98  String: NeCejA3Zon ieartiBa     Fitness: 10
+Generation: 99  String: NeCej$3Zon ieartiBa     Fitness: 10
+Generation: 100 String: NeSej_#Zon ieartiBa     Fitness: 10
+Generation: 101 String: NeCeu$3ZoA ieartiBa     Fitness: 10
+Generation: 102 String: NeCej$3Zo8 iearaina     Fitness: 9
+Generation: 103 String: NeCej$3Zo8 iearaina     Fitness: 9
+Generation: 104 String: NeCej$3Zo8 iearaina     Fitness: 9
+Generation: 105 String: NeCej$3Zo8 iearaina     Fitness: 9
+Generation: 106 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 107 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 108 String: Necej$3Zo8 Learaina     Fitness: 8
+Generation: 109 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 110 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 111 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 112 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 113 String: Necej$37o7 Learaina     Fitness: 8
+Generation: 114 String: Necej$3Zo7 Learaina     Fitness: 8
+Generation: 115 String: Necej$3Zo7 Learaina     Fitness: 8
+Generation: 116 String: NeCej$3Zo8 Learaina     Fitness: 8
+Generation: 117 String: NeIej$3Zo7 Learaina     Fitness: 8
+Generation: 118 String: Necej$3Zo7 Learaina     Fitness: 8
+Generation: 119 String: Necejh3Zo8 Learaina     Fitness: 8
+Generation: 120 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 121 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 122 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 123 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 124 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 125 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 126 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 127 String: Necej$9to7 Learaina     Fitness: 7
+Generation: 128 String: Necej$3to7 Learaina     Fitness: 7
+Generation: 129 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 130 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 131 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 132 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 133 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 134 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 135 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 136 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 137 String: Necej$-to7 Learaing     Fitness: 6
+Generation: 138 String: NeceH$3to7 Learaing     Fitness: 6
+Generation: 139 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 140 String: NeceH$3to7 Learaing     Fitness: 6
+Generation: 141 String: NeceH$3to7 Learaing     Fitness: 6
+Generation: 142 String: NeceH$3to7 LearEing     Fitness: 6
+Generation: 143 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 144 String: Necej$&to7 Learaing     Fitness: 6
+Generation: 145 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 146 String: Necej$-toI Learaing     Fitness: 6
+Generation: 147 String: NeceH$3to7 Learaing     Fitness: 6
+Generation: 148 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 149 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 150 String: NeceH93to7 Learaing     Fitness: 6
+Generation: 151 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 152 String: Necej$3tom Learaing     Fitness: 6
+Generation: 153 String: NeceH$3to7 Learaing     Fitness: 6
+Generation: 154 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 155 String: Necej$3to7 Learaing     Fitness: 6
+Generation: 156 String: Necej$3tom Learaing     Fitness: 6
+Generation: 157 String: Ne eH$3to7 Learaing     Fitness: 6
+Generation: 158 String: Ne eH$3to7 Learaing     Fitness: 6
+Generation: 159 String: Ne eH$Fto7 Lear5ing     Fitness: 6
+Generation: 160 String: Necej$wtom Learbing     Fitness: 6
+Generation: 161 String: Necej$3tom Learbing     Fitness: 6
+Generation: 162 String: Necej$3tom Learbing     Fitness: 6
+Generation: 163 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 164 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 165 String: Nece"$3tom Learbing     Fitness: 6
+Generation: 166 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 167 String: Neces$3tom Lear{ing     Fitness: 6
+Generation: 168 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 169 String: Necej$wto# Learbing     Fitness: 6
+Generation: 170 String: Necej$wtom Learbing     Fitness: 6
+Generation: 171 String: Neqes$3tom Learbing     Fitness: 6
+Generation: 172 String: NeceH$3toT Learaing     Fitness: 6
+Generation: 173 String: Ne eH$3to& Learaing     Fitness: 6
+Generation: 174 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 175 String: Ne eH$3too Learaing     Fitness: 6
+Generation: 176 String: Neqes$3tom Learbing     Fitness: 6
+Generation: 177 String: NeceH@rto7 Learaing     Fitness: 6
+Generation: 178 String: Neqes$3tom Learbing     Fitness: 6
+Generation: 179 String: NeceH9rto7 Learaing     Fitness: 6
+Generation: 180 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 181 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 182 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 183 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 184 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 185 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 186 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 187 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 188 String: NeveE@rto7 Learaing     Fitness: 5
+Generation: 189 String: Never@rto7 Learaing     Fitness: 4
+Generation: 190 String: Never@rto7 Learaing     Fitness: 4
+Generation: 191 String: Never@rto( Learaing     Fitness: 4
+Generation: 192 String: Never@rto7 Learaing     Fitness: 4
+Generation: 193 String: Never_rto7 Learaing     Fitness: 4
+Generation: 194 String: Never@rto7 Learaing     Fitness: 4
+Generation: 195 String: Never@rto7 Learaing     Fitness: 4
+Generation: 196 String: Never@rto( Learaing     Fitness: 4
+Generation: 197 String: Never@rto( Learaing     Fitness: 4
+Generation: 198 String: Never@rto7 LearKing     Fitness: 4
+Generation: 199 String: Never@rto( Learaing     Fitness: 4
+Generation: 200 String: Never_rto7 Learaing     Fitness: 4
+Generation: 201 String: Never rto4 Learaing     Fitness: 3
+Generation: 202 String: Never rto4 Learaing     Fitness: 3
+Generation: 203 String: Never rto4 Learaing     Fitness: 3
+Generation: 204 String: Never rto4 Learaing     Fitness: 3
+Generation: 205 String: Never rto4 Learaing     Fitness: 3
+Generation: 206 String: Never rto4 Learaing     Fitness: 3
+Generation: 207 String: Never rto4 Learaing     Fitness: 3
+Generation: 208 String: Never rto4 Learaing     Fitness: 3
+Generation: 209 String: Never rto4 Learaing     Fitness: 3
+Generation: 210 String: Never rto4 Learaing     Fitness: 3
+Generation: 211 String: Never rto7 Learaing     Fitness: 3
+Generation: 212 String: Never rto4 Learaing     Fitness: 3
+Generation: 213 String: Never rto4 Learaing     Fitness: 3
+Generation: 214 String: Never rtoD Learaing     Fitness: 3
+Generation: 215 String: Never rto4 Learaing     Fitness: 3
+Generation: 216 String: Never rto4 Learaing     Fitness: 3
+Generation: 217 String: Never rto4 Learaing     Fitness: 3
+Generation: 218 String: Never rto4 Learaing     Fitness: 3
+Generation: 219 String: Never rto4 Learaing     Fitness: 3
+Generation: 220 String: Never rto4 Learaing     Fitness: 3
+Generation: 221 String: Never rto4 Learaing     Fitness: 3
+Generation: 222 String: Never rto4 Learaing     Fitness: 3
+Generation: 223 String: Never Ito4 Learaing     Fitness: 3
+Generation: 224 String: Never rto4 Learaing     Fitness: 3
+Generation: 225 String: Never rto4 Learaing     Fitness: 3
+Generation: 226 String: Never rto7 Learaing     Fitness: 3
+Generation: 227 String: Never rtoY Learaing     Fitness: 3
+Generation: 228 String: Never rto4 Learaing     Fitness: 3
+Generation: 229 String: Never rto4 Learaing     Fitness: 3
+Generation: 230 String: Never rtoY Learaing     Fitness: 3
+Generation: 231 String: Never rtoY Learaing     Fitness: 3
+Generation: 232 String: Never ]toY LearTing     Fitness: 3
+Generation: 233 String: Never rto4 Learking     Fitness: 3
+Generation: 234 String: Never rto4 Learking     Fitness: 3
+Generation: 235 String: Never rto4 LearYing     Fitness: 3
+Generation: 236 String: Never rtoY Learaing     Fitness: 3
+Generation: 237 String: Never rto4 Learking     Fitness: 3
+Generation: 238 String: Never rtoY Learaing     Fitness: 3
+Generation: 239 String: Never rtoY Learaing     Fitness: 3
+Generation: 240 String: Never rtoY Learaing     Fitness: 3
+Generation: 241 String: Never rtoY Learaing     Fitness: 3
+Generation: 242 String: Never rtoY Learaing     Fitness: 3
+Generation: 243 String: Never rtod Learaing     Fitness: 3
+Generation: 244 String: Never Ito4 Learaing     Fitness: 3
+Generation: 245 String: Never rto4 Learking     Fitness: 3
+Generation: 246 String: Never rtoh LearZing     Fitness: 3
+Generation: 247 String: Never %to4 LearYing     Fitness: 3
+Generation: 248 String: Never rtoY Learaing     Fitness: 3
+Generation: 249 String: Never rto4 Learking     Fitness: 3
+Generation: 250 String: Never rtoY Learaing     Fitness: 3
+Generation: 251 String: Never rto4 Learking     Fitness: 3
+Generation: 252 String: Never Tto4 Learaing     Fitness: 3
+Generation: 253 String: Never rto4 LearYing     Fitness: 3
+Generation: 254 String: Never rto4 LearYing     Fitness: 3
+Generation: 255 String: Never rto4 LearZing     Fitness: 3
+Generation: 256 String: Never rto4 LearYing     Fitness: 3
+Generation: 257 String: Never rtoh LearZing     Fitness: 3
+Generation: 258 String: Never rto4 Lear0ing     Fitness: 3
+Generation: 259 String: Never rtoh LearZing     Fitness: 3
+Generation: 260 String: Never .to4 LearYing     Fitness: 3
+Generation: 261 String: Never rto4 LearYing     Fitness: 3
+Generation: 262 String: Never !toG LearYing     Fitness: 3
+Generation: 263 String: Never !toG LearYing     Fitness: 3
+Generation: 264 String: Never }tom LearYing     Fitness: 3
+Generation: 265 String: Never rtoG LearYing     Fitness: 3
+Generation: 266 String: Never rtoG LearYing     Fitness: 3
+Generation: 267 String: Never rtoG LearYing     Fitness: 3
+Generation: 268 String: Never rtoG LearYing     Fitness: 3
+Generation: 269 String: Never rtoh LearZing     Fitness: 3
+Generation: 270 String: Never rtog LearZing     Fitness: 3
+Generation: 271 String: Never rtoM LearYing     Fitness: 3
+Generation: 272 String: Never ito4 LearZing     Fitness: 3
+Generation: 273 String: Never ito4 LearZing     Fitness: 3
+Generation: 274 String: Never rtoG LearYing     Fitness: 3
+Generation: 275 String: Never rtoh LearZing     Fitness: 3
+Generation: 276 String: Never rto4 Lear0ing     Fitness: 3
+Generation: 277 String: Never {to4 LearZing     Fitness: 3
+Generation: 278 String: Never GtoM LearYing     Fitness: 3
+Generation: 279 String: Never rtoG LearYing     Fitness: 3
+Generation: 280 String: Never rtoh LearZing     Fitness: 3
+Generation: 281 String: Never Lto4 LearZing     Fitness: 3
+Generation: 282 String: Never rtoG Lear=ing     Fitness: 3
+Generation: 283 String: Never rto4 Lear@ing     Fitness: 3
+Generation: 284 String: Never rto4 Lear0ing     Fitness: 3
+Generation: 285 String: Never rtoG LearYing     Fitness: 3
+Generation: 286 String: Never ito4 LearZing     Fitness: 3
+Generation: 287 String: Never Lto4 LearZing     Fitness: 3
+Generation: 288 String: Never rtoG Lear9ing     Fitness: 3
+Generation: 289 String: Never rtoG LearYing     Fitness: 3
+Generation: 290 String: Never rtou LearYing     Fitness: 3
+Generation: 291 String: Never rtoG Lear=ing     Fitness: 3
+Generation: 292 String: Never rto4 Lear0ing     Fitness: 3
+Generation: 293 String: Never rto4 Learying     Fitness: 3
+Generation: 294 String: Never rto4 Lear0ing     Fitness: 3
+Generation: 295 String: Never rtoG LearYing     Fitness: 3
+Generation: 296 String: Never Lto4 LearZing     Fitness: 3
+Generation: 297 String: Never rto4 Learying     Fitness: 3
+Generation: 298 String: Never rtoG LearYing     Fitness: 3
+Generation: 299 String: Never rto4 Learying     Fitness: 3
+Generation: 300 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 301 String: Never rto4 Lear0ing     Fitness: 3
+Generation: 302 String: Never Lto4 LearZing     Fitness: 3
+Generation: 303 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 304 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 305 String: Never rto4 Learying     Fitness: 3
+Generation: 306 String: Never Dto4 Lear-ing     Fitness: 3
+Generation: 307 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 308 String: Never rto4 LearBing     Fitness: 3
+Generation: 309 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 310 String: Never Dto4 LearZing     Fitness: 3
+Generation: 311 String: Never rto4 Learying     Fitness: 3
+Generation: 312 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 313 String: Never %to4 Learying     Fitness: 3
+Generation: 314 String: Never Dto4 LearZing     Fitness: 3
+Generation: 315 String: Never rto4 Learying     Fitness: 3
+Generation: 316 String: Never rto4 Learying     Fitness: 3
+Generation: 317 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 318 String: Never Dto4 LearZing     Fitness: 3
+Generation: 319 String: Never rto4 Learying     Fitness: 3
+Generation: 320 String: Never %to4 Learying     Fitness: 3
+Generation: 321 String: Never Dto4 LearZing     Fitness: 3
+Generation: 322 String: Never Dto4 LearZing     Fitness: 3
+Generation: 323 String: Never rto4 Learying     Fitness: 3
+Generation: 324 String: Never %to5 Learying     Fitness: 3
+Generation: 325 String: Never ito4 Lear0ing     Fitness: 3
+Generation: 326 String: Never Dto4 LearZing     Fitness: 3
+Generation: 327 String: Never Dto4 LearZing     Fitness: 3
+Generation: 328 String: Never rto4 Learying     Fitness: 3
+Generation: 329 String: Never {to4 Learying     Fitness: 3
+Generation: 330 String: Never rto4 Learying     Fitness: 3
+Generation: 331 String: Never rto4 Learying     Fitness: 3
+Generation: 332 String: Never Sto4 Learying     Fitness: 2
+Generation: 333 String: Never Sto4 Learying     Fitness: 2
+Generation: 334 String: Never Sto4 Learying     Fitness: 2
+Generation: 335 String: Never Sto4 Learying     Fitness: 2
+Generation: 336 String: Never Sto4 Learying     Fitness: 2
+Generation: 337 String: Never Sto4 Learying     Fitness: 2
+Generation: 338 String: Never Sto4 Learying     Fitness: 2
+Generation: 339 String: Never Sto4 Learying     Fitness: 2
+Generation: 340 String: Never Sto4 Learying     Fitness: 2
+Generation: 341 String: Never Sto4 Learying     Fitness: 2
+Generation: 342 String: Never Sto4 Learying     Fitness: 2
+Generation: 343 String: Never Sto4 Learying     Fitness: 2
+Generation: 344 String: Never Sto4 Learying     Fitness: 2
+Generation: 345 String: Never Sto4 Learying     Fitness: 2
+Generation: 346 String: Never Sto4 Learying     Fitness: 2
+Generation: 347 String: Never Sto4 Learying     Fitness: 2
+Generation: 348 String: Never Sto) Learying     Fitness: 2
+Generation: 349 String: Never Sto4 Learying     Fitness: 2
+Generation: 350 String: Never Sto4 Learying     Fitness: 2
+Generation: 351 String: Never Sto[ Learying     Fitness: 2
+Generation: 352 String: Never Stoo Learying     Fitness: 2
+Generation: 353 String: Never Sto) Learying     Fitness: 2
+Generation: 354 String: Never Stoj Learying     Fitness: 2
+Generation: 355 String: Never Sto4 Lear:ing     Fitness: 2
+Generation: 356 String: Never Sto) Learying     Fitness: 2
+Generation: 357 String: Never Sto[ Learying     Fitness: 2
+Generation: 358 String: Never Sto[ Learying     Fitness: 2
+Generation: 359 String: Never Sto[ Learying     Fitness: 2
+Generation: 360 String: Never Sto[ Learying     Fitness: 2
+Generation: 361 String: Never Stoo Lear(ing     Fitness: 2
+Generation: 362 String: Never Sto[ Learying     Fitness: 2
+Generation: 363 String: Never Sto) Learying     Fitness: 2
+Generation: 364 String: Never Sto[ Learying     Fitness: 2
+Generation: 365 String: Never Sto[ Learying     Fitness: 2
+Generation: 366 String: Never Sto[ Learying     Fitness: 2
+Generation: 367 String: Never Sto[ Learying     Fitness: 2
+Generation: 368 String: Never Sto[ Learying     Fitness: 2
+Generation: 369 String: Never Sto[ Learying     Fitness: 2
+Generation: 370 String: Never Sto[ Learying     Fitness: 2
+Generation: 371 String: Never Sto[ Learying     Fitness: 2
+Generation: 372 String: Never Sto[ Learying     Fitness: 2
+Generation: 373 String: Never Sto[ Learying     Fitness: 2
+Generation: 374 String: Never StoC Learying     Fitness: 2
+Generation: 375 String: Never Sto[ Learying     Fitness: 2
+Generation: 376 String: Never Stoo Lear(ing     Fitness: 2
+Generation: 377 String: Never Sto[ Learying     Fitness: 2
+Generation: 378 String: Never Stoo Lear(ing     Fitness: 2
+Generation: 379 String: Never Sto[ Learying     Fitness: 2
+Generation: 380 String: Never Stoo Leareing     Fitness: 2
+Generation: 381 String: Never Sto[ Learying     Fitness: 2
+Generation: 382 String: Never Stoo Leareing     Fitness: 2
+Generation: 383 String: Never Sto{ Lear(ing     Fitness: 2
+Generation: 384 String: Never Sto[ Leariing     Fitness: 2
+Generation: 385 String: Never Stoo Lear(ing     Fitness: 2
+Generation: 386 String: Never StoC Learying     Fitness: 2
+Generation: 387 String: Never Sto[ Leariing     Fitness: 2
+Generation: 388 String: Never Sto[ Leariing     Fitness: 2
+Generation: 389 String: Never Stoo LearVing     Fitness: 2
+Generation: 390 String: Never Stoo Leareing     Fitness: 2
+Generation: 391 String: Never Stol Learying     Fitness: 2
+Generation: 392 String: Never StoC Learxing     Fitness: 2
+Generation: 393 String: Never Sto[ Learying     Fitness: 2
+Generation: 394 String: Never StoC Learxing     Fitness: 2
+Generation: 395 String: Never Sto[ Leariing     Fitness: 2
+Generation: 396 String: Never Sto[ Learying     Fitness: 2
+Generation: 397 String: Never Stoo Leareing     Fitness: 2
+Generation: 398 String: Never Sto: Leariing     Fitness: 2
+Generation: 399 String: Never Sto[ Learying     Fitness: 2
+Generation: 400 String: Never Sto[ Leariing     Fitness: 2
+Generation: 401 String: Never Sto: Leariing     Fitness: 2
+Generation: 402 String: Never Sto[ Leariing     Fitness: 2
+Generation: 403 String: Never Sto[ Leariing     Fitness: 2
+Generation: 404 String: Never Sto[ Learying     Fitness: 2
+Generation: 405 String: Never Sto[ Leariing     Fitness: 2
+Generation: 406 String: Never Sto[ Leariing     Fitness: 2
+Generation: 407 String: Never Sto[ Leariing     Fitness: 2
+Generation: 408 String: Never Sto[ Leariing     Fitness: 2
+Generation: 409 String: Never Sto[ Leariing     Fitness: 2
+Generation: 410 String: Never Sto{ Lear.ing     Fitness: 2
+Generation: 411 String: Never Sto[ Leariing     Fitness: 2
+Generation: 412 String: Never Sto{ Lear.ing     Fitness: 2
+Generation: 413 String: Never Sto{ Lear;ing     Fitness: 2
+Generation: 414 String: Never Sto[ Leariing     Fitness: 2
+Generation: 415 String: Never Sto[ Leariing     Fitness: 2
+Generation: 416 String: Never Stop Leariing     Fitness: 1
+Generation: 417 String: Never Stop Leariing     Fitness: 1
+Generation: 418 String: Never Stop Leariing     Fitness: 1
+Generation: 419 String: Never Stop Leariing     Fitness: 1
+Generation: 420 String: Never Stop Leariing     Fitness: 1
+Generation: 421 String: Never Stop Leariing     Fitness: 1
+Generation: 422 String: Never Stop Leariing     Fitness: 1
+Generation: 423 String: Never Stop Leariing     Fitness: 1
+Generation: 424 String: Never Stop Leariing     Fitness: 1
+Generation: 425 String: Never Stop LearOing     Fitness: 1
+Generation: 426 String: Never Stop Leariing     Fitness: 1
+Generation: 427 String: Never Stop Leariing     Fitness: 1
+Generation: 428 String: Never Stop Leariing     Fitness: 1
+Generation: 429 String: Never Stop Leariing     Fitness: 1
+Generation: 430 String: Never Stop Leariing     Fitness: 1
+Generation: 431 String: Never Stop Learring     Fitness: 1
+Generation: 432 String: Never Stop Leariing     Fitness: 1
+Generation: 433 String: Never Stop Learring     Fitness: 1
+Generation: 434 String: Never Stop Leariing     Fitness: 1
+Generation: 435 String: Never Stop Leariing     Fitness: 1
+Generation: 436 String: Never Stop Leariing     Fitness: 1
+Generation: 437 String: Never Stop Leariing     Fitness: 1
+Generation: 438 String: Never Stop Learring     Fitness: 1
+Generation: 439 String: Never Stop Leariing     Fitness: 1
+Generation: 440 String: Never Stop Leariing     Fitness: 1
+Generation: 441 String: Never Stop Leariing     Fitness: 1
+Generation: 442 String: Never Stop Leariing     Fitness: 1
+Generation: 443 String: Never Stop Leariing     Fitness: 1
+Generation: 444 String: Never Stop LearUing     Fitness: 1
+Generation: 445 String: Never Stop Leariing     Fitness: 1
+Generation: 446 String: Never Stop Leariing     Fitness: 1
+Generation: 447 String: Never Stop Leariing     Fitness: 1
+Generation: 448 String: Never Stop Leariing     Fitness: 1
+Generation: 449 String: Never Stop Leariing     Fitness: 1
+Generation: 450 String: Never Stop Leariing     Fitness: 1
+Generation: 451 String: Never Stop Leariing     Fitness: 1
+Generation: 452 String: Never Stop Leariing     Fitness: 1
+Generation: 453 String: Never Stop Leariing     Fitness: 1
+Generation: 454 String: Never Stop Leariing     Fitness: 1
+Generation: 455 String: Never Stop Leariing     Fitness: 1
+Generation: 456 String: Never Stop Leariing     Fitness: 1
+Generation: 457 String: Never Stop Learwing     Fitness: 1
+Generation: 458 String: Never Stop Leariing     Fitness: 1
+Generation: 459 String: Never Stop Learning     Fitness: 0
+
+--------------------------------
+Process exited after 1.904 seconds with return value 0
+Press any key to continue . . .
+
+
+-
